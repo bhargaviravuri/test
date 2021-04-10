@@ -3,5 +3,9 @@ bio
 media
 hello
 this is bhargavi
+<<<<<<< HEAD
 welcome india
 happy
+=======
+hello world
+>>>>>>> 344e34b44fed07ec05acb921949af2b2fd25d174
